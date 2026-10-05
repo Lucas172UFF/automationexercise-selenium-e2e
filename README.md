@@ -36,6 +36,4 @@ Em todas as cinco entradas, a senha é uma senha válida em formato, mas inexist
 
 ## Entrega em repositório público
 
-Após publicar esta pasta em uma conta GitHub, informe na atividade a URL do repositório público, por exemplo:
-
-`https://github.com/SEU-USUARIO/automationexercise-selenium-e2e`
+`github.com/Lucas172UFF/automationexercise-selenium-e2e`
